@@ -21,20 +21,12 @@ The program uses Java's built-in I/O classes and is suitable for beginners learn
 - javac FileOperationsDemo.java
 
 2. Run the program:
-
-
 java FileOperationsDemo
-
-
 ## 📌 Output
 - Creates a text file
 - Writes content to the file
 - Reads and displays file content
 - Appends new data successfully
-
 ## 📚 Use Case
 Useful for understanding file handling concepts in Java such as reading, writing, and modifying files.
 
-
-## ▶️ How to Run
-1. Compile the program:
