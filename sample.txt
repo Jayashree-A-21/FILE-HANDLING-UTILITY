@@ -1,0 +1,3 @@
+Java File Handling Example
+This file demonstrates read, write, and modify operations.
+This line is added while modifying the file.
